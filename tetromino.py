@@ -9,7 +9,7 @@ class Block(pg.sprite.Sprite):
         self.next_pos = vec(pos) + NEXT_POS_OFFSET
         self.alive = True
 
-        # Initializing sprite grouup
+        # Initializing sprite group
         super().__init__(tetromino.tetris.sprite_group)
         self.image = tetromino.image
         self.rect = self.image.get_rect()
