@@ -4,6 +4,12 @@
 This project is aimed to recreate on of the most popular and timeless game of all time - Tetris!
 In this project, we will be dealing with an OOP-based program, which means classes, modules, and functions will play a huge part in this program.
 
+How to run:
+-
+
+- Download all the files in this repository
+- Simply run 'main.py' and you're all set!
+
 Controls:
 -
 
